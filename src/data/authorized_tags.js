@@ -1,5 +1,26 @@
-const userDefinedAuthorizedTags = {
-	"type:system": {
-		"description": "paper describing a system"
-	}
-}
+var authorizedTags = {
+    "historical-foundation": true,
+    "metric-based": true,
+    "siamese-network": true,
+    "triplet-loss": true,
+    "embedding": true,
+    "prototype": true,
+    "matching": true,
+    "relation-metric": true,
+    "baseline-analysis": true,
+    "feature-space": true,
+    "cross-domain": true,
+    "nearest-neighbor": true,
+    "adaptive-representation": true,
+    "embedding-adaptation": true,
+    "regularization": true,
+    "task-adaptive-metric": true,
+    "self-supervised-learning": true,
+    "contrastive-learning": true,
+    "representation-learning": true,
+    "meta-learning": true,
+    "optimization-based": true,
+    "survey": true,
+    "few-shot-learning": true,
+    "graph-learning": true
+};
